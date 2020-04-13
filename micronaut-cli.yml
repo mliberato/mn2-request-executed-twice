@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn2.request.executed.twice
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
